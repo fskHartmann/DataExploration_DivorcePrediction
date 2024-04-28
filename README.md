@@ -1,2 +1,0 @@
-# DataExploration_DivorcePrediction
-# dataExplorationDivorcePrediction
